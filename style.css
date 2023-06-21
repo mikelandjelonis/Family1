@@ -1,0 +1,62 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+}
+   a{
+    font-size: 35px;
+    background-color: rgb(231, 202, 73);
+    border-radius: 5px;
+    color: black ;
+   padding:3px ;
+   
+   }
+nav {
+    display: inline-block;
+}
+header{
+    background-color:cornflowerblue ;
+}
+header img{
+    margin-top: 5px;
+    margin-left: 5px;
+}
+nav a{
+    margin-bottom: 5px;
+}
+main img{
+    margin: 5px;
+    height: 250px;
+}
+p{
+    font-size: 35px;
+    color: red;
+    }
+
+.fam{
+    border-top: 2px black solid;
+    border-bottom: 2px black solid;  
+}
+footer{
+    background-color:cornflowerblue ;
+   
+}
+footer p{
+    color: black;
+}
+.owl{
+  width: 190px;
+}
+.big{
+    width: 371px;
+}
+.bird{
+  width: 210px ; 
+}
+.house{
+    width: 165px;
+}
+.doll{
+    width: 175px;
+}
